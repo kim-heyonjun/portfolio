@@ -5,8 +5,10 @@ a{
     text-decoration: none;
 }
 .bici{
-    background-image: url(../images/adidas.jpg); background-repeat: no-repeat; background-size: cover;
-    background-position: center center; width: 100%; height: 15200px;
+    max-width: 2000px ; margin: 0 auto
+}
+.bici img{
+    width: 100%;
 }
 .btn{
     border:  1px solid #e74c3c; width: 150px; height: 50px; line-height: 50px; text-align: center;
